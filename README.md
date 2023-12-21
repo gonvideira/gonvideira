@@ -6,9 +6,9 @@ I'm a catalyst for growth and innovation, empowering big companies to boldly ven
 
 ## 🌱 Skills
 
-- PowerApps maker
-- Python (currently learning)
-- GitHub (getting started)
+- Power Platform
+- Python
+- GitHub
 
 ## 🤔 Areas of Interest
 
