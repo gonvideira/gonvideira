@@ -1,6 +1,6 @@
 # Gonçalo Videira 👋
 
-## ⚡New Business Development Director
+## ⚡Strategy Director
 
 I'm a catalyst for growth and innovation, empowering big companies to boldly venture into new frontiers (new products, services, channels, or geographies) using my strategic acumen, meticulous project management, and unwavering integrity together with my passion to drive innovation to guide their teams through transformative journeys that ensure their businesses are well-prepared for an ever-evolving business landscape.
 
